@@ -6,3 +6,6 @@ main: commit 1!
 
 # First main, commit 2
 main: commit 2!!
+
+# First main, commit 3
+main: commit 3!!!
